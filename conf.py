@@ -1,0 +1,2 @@
+user = "USUARIO"
+clave = "CONTRASEÑA"
